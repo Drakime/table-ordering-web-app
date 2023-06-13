@@ -1,0 +1,27 @@
+.container {
+  max-width: 960px;
+}
+
+@media (max-width: 576px) {
+  li.list-group-item.d-flex.lh-sm {
+    width: 100%;
+  }
+}
+
+@media (max-width: 768px) {
+  li.list-group-item.d-flex.lh-sm {
+    width: 100%;
+  }
+}
+
+@media (max-width: 992px) {
+  li.list-group-item.d-flex.lh-sm {
+    width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  li.list-group-item.d-flex.lh-sm {
+    width: 30rem;
+  }
+}
